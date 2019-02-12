@@ -41,7 +41,7 @@ public class Main {
                 case 3:
                 {
                     //bank.addConsumer("Consumer1", 1234, 1.0 );
-                    System.out.println("Enter Branch Id to add Consumer");
+                    System.out.println("Enter IntelliJ1 Branch Id to add Consumer");
                     tempBranchId = scanner.nextInt();
                     scanner.nextLine();
                     System.out.println("enter Consumer Name");
